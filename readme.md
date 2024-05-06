@@ -35,7 +35,7 @@ Se você quiser entrar em contato comigo ou conhecer mais sobre meu trabalho, si
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/paulo-ricardo-b4960524a/" target="_blank">
+<a href="https://www.linkedin.com/in/pauloricardor/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 </div>
