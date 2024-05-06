@@ -22,7 +22,9 @@ Além das tecnologias mencionadas acima, pretendo expandir meu conhecimento e ap
 ## Formação Acadêmica
 
 - **Gestão de Tecnologia da Informação**: Curso superior que me proporcionou conhecimentos em gestão de projetos, infraestrutura de TI e estratégias de negócios.
+- **Direito**: Curso que me proporcionou conhecimentos em legislação, direitos e deveres legais.
 
+  
 ## Contato
 
 Se você quiser entrar em contato comigo ou conhecer mais sobre meu trabalho, sinta-se à vontade para me enviar uma mensagem aqui no GitHub, por e-mail, instagram ou Linkedin.
